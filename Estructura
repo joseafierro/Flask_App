@@ -1,0 +1,9 @@
+tu_app/
+├── app/
+│   ├── static/
+│   ├── templates/
+│   ├── __init__.py
+│   └── views.py
+├── config.py
+├── run.py
+├── venv/
